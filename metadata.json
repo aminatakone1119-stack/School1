@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix EduManage - Système de Gestion Scolaire",
+  "description": "Plateforme SaaS de gestion administrative et financière scolaire (primaire \u0026 collège) - Multi-école, bilingue FR/AR, FCFA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
